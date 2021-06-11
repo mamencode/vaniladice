@@ -94,3 +94,7 @@ margin-bottom: 1rem;
     
     
 }
+@media only screen and (max-width: 600px){
+    body{
+        min-height:550px;
+    }
