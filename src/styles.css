@@ -11,7 +11,7 @@ body {
     
     background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
 }
-.diceimg{
+.dice{
     object-fit:contain;
     width:50%;
     margin-left:25%;
@@ -89,7 +89,7 @@ margin-bottom: 1rem;
  font-size: 1.7rem; 
  color: #ddd;}
 
-.dice{
+.dicediv{
     height:20%;
     
     
